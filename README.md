@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Girif Educational Technologies**
 
-- 💬 Ask me about **Reactjs, Redux, Html, Css, Bootstrap**
+- 💬 Ask me about **Reactjs, React Native, Redux, Html, Css, Bootstrap**
 
 - 📫 How to reach me **onurbilenlacin@gmail.com**
 
