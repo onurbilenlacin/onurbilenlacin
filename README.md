@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Onur Bilen LAÇIN</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🔭 I’m currently working on **Girif Educational Technologies**
+- 🔭 I’m currently working as **Freelancer**
 
 - 💬 Ask me about **Reactjs, React Native, Redux, Html, Css, Bootstrap**
 
